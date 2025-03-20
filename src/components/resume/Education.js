@@ -18,7 +18,7 @@ const Education = () => {
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="BSc in Software Engineering"
-            subTitle="University of Wolkite (2013 - 2018 E.C)"
+            subTitle="Wolkite University  (2013 - 2018 E.C)"
             result="3.75/4"
             des={
               <>
@@ -45,7 +45,7 @@ const Education = () => {
 
       <div>
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2010 - 2022</p>
+          <p className="text-sm text-designColor tracking-[4px]">2013 - 2017</p>
           <h2 className="text-3xl md:text-4xl font-bold">Job Experience</h2>
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
